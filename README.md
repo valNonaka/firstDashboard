@@ -1,7 +1,7 @@
 ## firstDashboard
 meu primeiro dashboard com powerBi, bem amador, mas logo chego no alto nível
 
-![dash](https://github.com/valNonaka/firstDashboard/blob/main/print.png)
+![dash](https://github.com/valNonaka/firstDashboard/blob/main/print.png](https://github.com/valNonaka/firstDashboard/blob/main/print.jpg))
 
 
 link do dash : https://app.powerbi.com/view?r=eyJrIjoiZWM1NmZkMWQtMjg2Yy00MGUwLWJjMjctMzU1Nzc5ZjVmZGQ4IiwidCI6IjlkNzVmMWI5LTk0NzQtNDlhOS04NTE0LTY3NzhkZGY1OThmMCIsImMiOjN9
